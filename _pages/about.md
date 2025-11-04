@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font color=Blue>Hi!</font> My name is **Ziyu Song**. I am an Assistant Professor at Jilin University. My research focuses on building safe, robust, and generalizable **autonomous driving systems**, with emphasis on:
+My name is **Ziyu Song**. I am an Assistant Professor at Jilin University. My research focuses on building safe, robust, and generalizable **autonomous driving systems**, with emphasis on:
 
 - Vision–Language–Action models for driving
 - Data-driven decision-making and planning
@@ -30,7 +30,7 @@ Prior to academia, I worked at FAW Group as an engineer.
 
 # 📝 Publications 
 
-- **Z. Song**, W. Li, B. Yang, et al. 
+- **Z. Song**, W. Li, B. Yang, et al.   
   *Enhanced control for handling and stability of 4WD electric vehicles with with uncertain stability margins.*  
   **IEEE TTE**, 2025. (JCR Q1, IF: 8.3)
 
