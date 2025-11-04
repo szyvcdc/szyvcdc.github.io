@@ -17,42 +17,83 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<font color=Blue>Hi!</font> My name is **Ziyu Song**. I am an Assistant Professor at Jilin University. My research focuses on building safe, robust, and generalizable **autonomous driving systems**, with emphasis on:
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+- Vision–Language–Action models for driving
+- Data-driven decision-making and planning
+- Vehicle dynamics & robust control
+- Preference-based reinforcement learning and cognitive intelligence
+- Safety-critical driving in complex, real-world scenarios
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I obtained my Ph.D. in Automotive Engineering at Jilin University under Prof. <font color=Gray>Haitao Ding</font>, and conducted joint doctoral research at Nanyang Technological University under Prof. <font color=Gray>Chen Lv</font>. I am currently collaborating with Prof. <font color=Gray>Yunfeng Hu</font> and Prof. <font color=Gray>Hong Chen</font> on research topics related to autonomous driving and intelligent transportation systems.
+Prior to academia, I worked at FAW Group as an engineer.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Z. Song**, W. Li, B. Yang, et al. 
+  *Enhanced control for handling and stability of 4WD electric vehicles with with uncertain stability margins.*  
+  **IEEE TTE**, 2025. (JCR Q1, IF: 8.3)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Z. Song**, N. Xu, H. Ding.  
+  *Decision-making framework for autonomous vehicles in complex scenarios using large language models.*  
+  **Automotive Innovation**, 2025. (JCR Q1, IF: 5.0)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **Z. Song**, H. Ding, L. Jamel, et al.  
+  *Smart-city spatiotemporal data-driven trajectory prediction for autonomous vehicles via attention mechanisms and self-supervised learning.*  
+  **IEEE TCE**, 2025. (JCR Q1, IF: 10.9)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Z. Song**, H Liang, H Ding, et al.  
+  *Structure design and mechanical properties of a novel anti-collision system with negative Poisson’s ratio core.*  
+  **International Journal of Mechanical Sciences**, 2023. (JCR Q1, IF: 7.3)
+  
+- **Z. Song**\*, H Ding.  
+  *Modeling car-following behavior in heterogeneous traffic mixing human-driven, automated and connected vehicles: considering multitype vehicle interactions.*  
+  **Nonlinear Dynamics**, 2023. (JCR Q1, IF: 5.6)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Z. Song**\*, S Zhang, W Li, et al.  
+  *Sensitivity analysis and uncertainty bounding of tire parameters on vehicle handling and stability.*  
+  **Nonlinear Dynamics**, 2025. (JCR Q1, IF: 6.0)
+
+- **Z. Song**\*, J Wang, Y Liang, et al.  
+  *Trajectory tracking control for autonomous vehicles on slippery roads: a stability margin approach.*  
+  **Nonlinear Dynamics**, 2025. (JCR Q1, IF: 6.0)
+
+- **Z. Song**, J. Yang, H. Feng, et al.  
+  *VLM-GAP-RL: Vision–Language-Model-Guided preference reinforcement learning for autonomous driving.*  
+  **IEEE TITS**, UR.
+
+- **Z. Song**, S. Zhang, W. Li, et al.  
+  *Enhanced motion planning strategy for automated lane change on slippery roads.*  
+  **IEEE/ASME TMech**, UR.
+
+- **Z. Song**, J Yang, MU Ali, et al.  
+  *Spatial Reasoning and Risk Assessment for Autonomous Vehicles on Consumer Electronics Platforms Using a Customized Vision–Language Model with Data Augmentation.*  
+  **IEEE TCE**, UR.
+
+- **Z. Song**, Y Li, X Tao, et al.  
+  *Vision-language Model-Based Scene Understanding and Decision-making for Autonomous Vehicles with a Tailored Augmented Reality Vehicle-in-the-Loop Testing Platform.*  
+  **TRC**, UR.
+
+[**Full Publication List → Google Scholar**](https://scholar.google.com/citations?user=t6WfZe4AAAAJ)
+
+---
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **CAST Young Elite Scientists Sponsorship Doctoral Program** (2024)
+- Outstanding Paper, China SAE Annual Congress (2025)
+- MCM/ICM Finalist Outstanding Winner Nomination (2015)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+---
+  
+## 🔧 Academic Service
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+Reviewer for: **IEEE TITS**, **IEEE/ASME TMech**,**Advanced Engineering Informatics**, **Nonlinear Dynamics**  
+TPC Member: **BDICN 2026**
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+---
+
+## 📬 Contact
+
+📧 e-mail: songzy22@mails.jlu.edu.cn; wechat: s577055769
+
+---
