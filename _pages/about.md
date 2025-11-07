@@ -88,7 +88,7 @@ Prior to academia, I worked at FAW Group as an engineer.
 ## 🔧 Academic Service
 
 Reviewer for: **IEEE TITS**, **IEEE/ASME TMech**,**Advanced Engineering Informatics**, **Nonlinear Dynamics**  
-TPC Member: **BDICN 2026**
+TPC Member: **BDICN 2026**  
 标准参与: 《智能网联汽车 紧急场景安全边界构建方法》推荐性国家标准主要起草人
 ---
 
