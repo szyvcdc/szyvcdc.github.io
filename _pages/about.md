@@ -87,9 +87,9 @@ Prior to academia, I worked at FAW Group as an engineer.
   
 ## 🔧 Academic Service
 
-Reviewer for: **IEEE TITS**, **IEEE/ASME TMech**,**Advanced Engineering Informatics**, **Nonlinear Dynamics**  
+Reviewer for: **IEEE TITS**, **IEEE/ASME TMech**, **Advanced Engineering Informatics**, **Nonlinear Dynamics**  
 TPC Member: **BDICN 2026**  
-Principal Drafter, China National Recommended Standard (GB/T): Intelligent and connected vehicles Construction method for emergency scenarios safety boundaries. (《智能网联汽车 紧急场景安全边界构建方法》推荐性国家标准主要起草人)
+Principal Drafter, China National Recommended Standard (GB/T): Intelligent and connected vehicles construction method for emergency scenarios safety boundaries. (《智能网联汽车 紧急场景安全边界构建方法》推荐性国家标准主要起草人)
 
 ---
 
