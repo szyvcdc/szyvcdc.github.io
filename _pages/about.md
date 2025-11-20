@@ -95,6 +95,6 @@ Principal Drafter, China National Recommended Standard (GB/T): Intelligent and c
 
 ## 📬 Contact
 
-📧 e-mail: songzy22@mails.jlu.edu.cn; wechat: s577055769
+📧 e-mail: songziyu@jlu.edu.cn; wechat: s577055769
 
 ---
