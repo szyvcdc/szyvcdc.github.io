@@ -76,15 +76,15 @@ Prior to academia, I worked at FAW Group as an engineer.
 
  - W Li, Y Li, L Ge, J Yang, S Prajapat, **Z. Song**\*, et al.  
   *A novel variable-configuration dynamics model and hierarchical energy-saving controller for heterogeneous electric trucks platoon*  
-  **TII**, UR.
+  **IEEE TII**, UR.
 
  - W Li, J Yang, Y Li, **Z. Song**\*, et al.  
   *Eco-VLA: An eco-driving framework for autonomous driving based on Vision-Language-Action model with reinforcement fine-tuning.*  
-  **TVT**, UR.
+  **IEEE TVT**, UR.
 
  - S Zhang, J Yang, **Z. Song**\*, et al.  
   *Hybrid lmitation Learning and Differentiable Optimization for Autonomous Vehicles: A Safety-Constrained Trajectory Planning Framework for Public Road Transportation*  
-  **VTM**, UR.
+  **IEEE VTM**, UR.
 
 
 
