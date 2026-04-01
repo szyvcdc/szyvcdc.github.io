@@ -42,15 +42,15 @@ Prior to academia, I worked at FAW Group as an engineer.
   *Smart-city spatiotemporal data-driven trajectory prediction for autonomous vehicles via attention mechanisms and self-supervised learning.*  
   **IEEE Transactions on Consumer Electronics**, 2025. (JCR Q1, IF: 10.9)
 
-  - **Z. Song**, J Yang, L Fang, et al.  
+- **Z. Song**, J Yang, L Fang, et al.  
   *Spatial Reasoning and Risk Assessment for Autonomous Vehicles on Consumer Electronics Platforms Using a Customized Vision–Language Model with Data Augmentation.*  
   **IEEE IEEE Transactions on Consumer Electronics**, 2026. (JCR Q1, IF: 10.9)
 
-  - **Z. Song**, Y Li, X Tao, et al.  
+- **Z. Song**, Y Li, X Tao, et al.  
   *Vision-language Model-Based Scene Understanding and Decision-making for Autonomous Vehicles with a Tailored Augmented Reality Vehicle-in-the-Loop Testing Platform.*  
   **Transportation Research Part C: Emerging Technologies**, 2026. (JCR Q1, IF: 7.9)
 
-  - **Z. Song**, H Liang, H Ding, et al.  
+- **Z. Song**, H Liang, H Ding, et al.  
   *Structure design and mechanical properties of a novel anti-collision system with negative Poisson’s ratio core.*  
   **International Journal of Mechanical Sciences**, 2023. (JCR Q1, IF: 7.3)
   
