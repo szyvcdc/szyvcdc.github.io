@@ -25,7 +25,7 @@ My name is **Ziyu Song**. I am an Assistant Professor at Jilin University. My re
 - Autonomous driving testing and evaluation
 - Safety-critical driving in complex, real-world scenarios
 
-I obtained my Ph.D. in Automotive Engineering at Jilin University under Prof. <font color=Gray>Haitao Ding</font>, and conducted joint doctoral research at Nanyang Technological University under Prof. <font color=Gray>Chen Lv</font>. I am currently collaborating with Prof. <font color=Gray>Yunfeng Hu</font> and Prof. <font color=Gray>Hong Chen</font> on research topics related to autonomous driving and intelligent transportation systems.
+I obtained my Ph.D. in Automotive Engineering at Jilin University under Prof. <font color=Gray>Haitao Ding</font>, and conducted joint doctoral research at Nanyang Technological University under Prof. <font color=Gray>Chen Lv</font>. I am currently collaborating with Prof. <font color=Gray>Yunfeng Hu</font> on research topics related to autonomous driving and intelligent transportation systems.
 Prior to academia, I worked at FAW Group as an engineer.
 
 # 📝 Publications 
