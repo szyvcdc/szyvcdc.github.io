@@ -22,7 +22,7 @@ My name is **Ziyu Song**. I am an Assistant Professor at Jilin University. My re
 - Vision–Language–Action models for driving
 - Data-driven decision-making and planning
 - Vehicle dynamics & robust control
-- Preference-based reinforcement learning and cognitive intelligence
+- Autonomous driving testing and evaluation
 - Safety-critical driving in complex, real-world scenarios
 
 I obtained my Ph.D. in Automotive Engineering at Jilin University under Prof. <font color=Gray>Haitao Ding</font>, and conducted joint doctoral research at Nanyang Technological University under Prof. <font color=Gray>Chen Lv</font>. I am currently collaborating with Prof. <font color=Gray>Yunfeng Hu</font> and Prof. <font color=Gray>Hong Chen</font> on research topics related to autonomous driving and intelligent transportation systems.
@@ -32,17 +32,25 @@ Prior to academia, I worked at FAW Group as an engineer.
 
 - **Z. Song**, W. Li, B. Yang, et al.   
   *Enhanced control for handling and stability of 4WD electric vehicles with with uncertain stability margins.*  
-  **IEEE TTE**, 2025. (JCR Q1, IF: 8.3)
+  **IEEE Transactions on Transportation Electrification**, 2025. (JCR Q1, IF: 8.3)
 
 - **Z. Song**, N. Xu, H. Ding.  
   *Decision-making framework for autonomous vehicles in complex scenarios using large language models.*  
-  **Automotive Innovation**, 2025. (JCR Q1, IF: 5.0)
+  **Automotive Innovation**, 2026. (JCR Q1, IF: 5.0)
 
 - **Z. Song**, H. Ding, L. Jamel, et al.  
   *Smart-city spatiotemporal data-driven trajectory prediction for autonomous vehicles via attention mechanisms and self-supervised learning.*  
-  **IEEE TCE**, 2025. (JCR Q1, IF: 10.9)
+  **IEEE Transactions on Consumer Electronics**, 2025. (JCR Q1, IF: 10.9)
 
-- **Z. Song**, H Liang, H Ding, et al.  
+  - **Z. Song**, J Yang, L Fang, et al.  
+  *Spatial Reasoning and Risk Assessment for Autonomous Vehicles on Consumer Electronics Platforms Using a Customized Vision–Language Model with Data Augmentation.*  
+  **IEEE IEEE Transactions on Consumer Electronics**, 2026. (JCR Q1, IF: 10.9)
+
+  - **Z. Song**, Y Li, X Tao, et al.  
+  *Vision-language Model-Based Scene Understanding and Decision-making for Autonomous Vehicles with a Tailored Augmented Reality Vehicle-in-the-Loop Testing Platform.*  
+  **Transportation Research Part C: Emerging Technologies**, 2026. (JCR Q1, IF: 7.9)
+
+  - **Z. Song**, H Liang, H Ding, et al.  
   *Structure design and mechanical properties of a novel anti-collision system with negative Poisson’s ratio core.*  
   **International Journal of Mechanical Sciences**, 2023. (JCR Q1, IF: 7.3)
   
@@ -57,36 +65,18 @@ Prior to academia, I worked at FAW Group as an engineer.
 - **Z. Song**\*, J Wang, Y Liang, et al.  
   *Trajectory tracking control for autonomous vehicles on slippery roads: a stability margin approach.*  
   **Nonlinear Dynamics**, 2025. (JCR Q1, IF: 6.0)
+  
+- **Z. Song**, H. Ding, J. Wang, C. Huang, Y. Guo.  
+  *Research on the strategy of cruise control system for urban traffic jam assistant.*  
+  **Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering**, 2025. (JCR Q3, IF: 1.5)
 
-- **Z. Song**, J. Yang, H. Feng, et al.  
-  *VLM-GAP-RL: Vision–Language-Model-Guided preference reinforcement learning for autonomous driving.*  
-  **IEEE TITS**, UR.
+- X. Tao, Y. Wang, H. Ding, Y. Qi, **Z. Song**\*.  
+  *Energy-Aware Reinforcement Learning for Robotic Manipulation of Articulated Components in Infrastructure Operation and Maintenance.*  
+  **Computer-Aided Civil and Infrastructure Engineering**, 2026. (JCR Q1, IF: 9.1)
 
-- **Z. Song**, S. Zhang, W. Li, et al.  
-  *Enhanced motion planning strategy for automated lane change on slippery roads.*  
-  **IEEE/ASME TMech**, UR.
-
-- **Z. Song**, J Yang, MU Ali, et al.  
-  *Spatial Reasoning and Risk Assessment for Autonomous Vehicles on Consumer Electronics Platforms Using a Customized Vision–Language Model with Data Augmentation.*  
-  **IEEE TCE**, UR.
-
-- **Z. Song**, Y Li, X Tao, et al.  
-  *Vision-language Model-Based Scene Understanding and Decision-making for Autonomous Vehicles with a Tailored Augmented Reality Vehicle-in-the-Loop Testing Platform.*  
-  **TRC**, UR.
-
- - W Li, Y Li, L Ge, J Yang, S Prajapat, **Z. Song**\*, et al.  
-  *A novel variable-configuration dynamics model and hierarchical energy-saving controller for heterogeneous electric trucks platoon*  
-  **IEEE TII**, UR.
-
- - W Li, J Yang, Y Li, **Z. Song**\*, et al.  
-  *Eco-VLA: An eco-driving framework for autonomous driving based on Vision-Language-Action model with reinforcement fine-tuning.*  
-  **IEEE TVT**, UR.
-
- - S Zhang, J Yang, **Z. Song**\*, et al.  
-  *Hybrid lmitation Learning and Differentiable Optimization for Autonomous Vehicles: A Safety-Constrained Trajectory Planning Framework for Public Road Transportation*  
-  **IEEE VTM**, UR.
-
-
+- H. Ding, **Z. Song**\*, J. Zhang, N. Xu, S. Gao, C. Zhao.  
+  *Efficient motion planning and control for automated lane change considering road adhesion coefficient.*  
+  **International Journal of Vehicle Design**, 2024, 95(3–4): 320–347. (JCR Q4, IF: 0.7)
 
 [**Full Publication List → Google Scholar**](https://scholar.google.com/citations?user=t6WfZe4AAAAJ)
 
