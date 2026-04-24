@@ -38,7 +38,7 @@ Prior to academia, I worked at FAW Group as an engineer.
   **IEEE Transactions on Transportation Electrification**, 2025. (JCR Q1, IF: 8.3)
 
 - **Z. Song**, W. Li, S. Zhang, et al.
-  *Enhanced Motion Planning Strategy for Automated Lane Change on Slippery Roads.*
+  *Enhanced Motion Planning Strategy for Automated Lane Change on Slippery Roads.*  
   **IEEE/ASME Transactions on Mechatronics**, 2026. (JCR Q1, IF: 7.3)
 
 - **Z. Song**, N. Xu, H. Ding.  
