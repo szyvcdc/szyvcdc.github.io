@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is **Ziyu Song**. I am an Assistant Professor at Jilin University. My research focuses on building safe, robust, and generalizable **autonomous driving systems**, with emphasis on:
+My name is **Ziyu Song**. I am an Postdoctoral Researcher at Jilin University. My research focuses on building safe, robust, and generalizable **autonomous driving systems**, with emphasis on:
 
 - Vision–Language–Action models for driving
 - Data-driven decision-making and planning
@@ -28,11 +28,18 @@ My name is **Ziyu Song**. I am an Assistant Professor at Jilin University. My re
 I obtained my Ph.D. in Automotive Engineering at Jilin University under Prof. <font color=Gray>Haitao Ding</font>, and conducted joint doctoral research at Nanyang Technological University under Prof. <font color=Gray>Chen Lv</font>. I am currently collaborating with Prof. <font color=Gray>Yunfeng Hu</font> on research topics related to autonomous driving and intelligent transportation systems.
 Prior to academia, I worked at FAW Group as an engineer.
 
+宋子钰，现任吉林大学博士后研究员，从事自动驾驶系统研究。
+
+
 # 📝 Publications 
 
 - **Z. Song**, W. Li, B. Yang, et al.   
   *Enhanced control for handling and stability of 4WD electric vehicles with with uncertain stability margins.*  
   **IEEE Transactions on Transportation Electrification**, 2025. (JCR Q1, IF: 8.3)
+
+- **Z. Song**, W. Li, S. Zhang, et al.
+  *Enhanced Motion Planning Strategy for Automated Lane Change on Slippery Roads.*
+  **IEEE/ASME Transactions on Mechatronics**, 2026. (JCR Q1, IF: 7.3)
 
 - **Z. Song**, N. Xu, H. Ding.  
   *Decision-making framework for autonomous vehicles in complex scenarios using large language models.*  
@@ -44,7 +51,7 @@ Prior to academia, I worked at FAW Group as an engineer.
 
 - **Z. Song**, J Yang, L Fang, et al.  
   *Spatial Reasoning and Risk Assessment for Autonomous Vehicles on Consumer Electronics Platforms Using a Customized Vision–Language Model with Data Augmentation.*  
-  **IEEE IEEE Transactions on Consumer Electronics**, 2026. (JCR Q1, IF: 10.9)
+  **IEEE Transactions on Consumer Electronics**, 2026. (JCR Q1, IF: 10.9)
 
 - **Z. Song**, Y Li, X Tao, et al.  
   *Vision-language Model-Based Scene Understanding and Decision-making for Autonomous Vehicles with a Tailored Augmented Reality Vehicle-in-the-Loop Testing Platform.*  
