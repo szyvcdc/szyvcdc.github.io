@@ -121,7 +121,7 @@ Principal Drafter, China National Recommended Standard (GB/T): Intelligent and c
 - Guangjie Han, **Fellow, IEEE** (Hohai University, China)
 - Wei Ni, **Fellow, IEEE** (Edith Cowan University, Australia)
 - Jun Luo, **Fellow, IEEE** (Nanyang Technological University, Singapore)
-- 
+
 ---
 
 ## 📬 Contact
