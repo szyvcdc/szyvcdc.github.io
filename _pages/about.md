@@ -96,12 +96,32 @@ Prior to academia, I worked at FAW Group as an engineer.
 
 ---
   
-## 🔧 Academic Service
+## 🔧5                                                                                                                                                              
 
 Reviewer for: **IEEE TITS**, **IEEE/ASME TMech**, **Advanced Engineering Informatics**, **Nonlinear Dynamics**  
 TPC Member: **BDICN 2026**  
 Principal Drafter, China National Recommended Standard (GB/T): Intelligent and connected vehicles construction method for emergency scenarios safety boundaries. (《智能网联汽车 紧急场景安全边界构建方法》推荐性国家标准主要起草人)
 
+---
+
+## 🤝 Collaborators
+
+围绕自动驾驶等方向开展合作研究：
+
+- 吉林大学 丁海涛、许男、章新杰、胡云峰、张建伟、郭洪艳、梁鸿宇 老师
+- 同济大学 黄岩军 老师
+- 清华大学 曹东璞 老师  
+- 重庆邮电大学 李永福 老师
+- 江汉大学 马梦 老师
+- 湖北汽车工业大学 李玮 老师
+- Jing Yang, Por Lip Yee (Universiti Malaya, Malaysia)
+- F. Richard Yu, **Fellow, IEEE** (Carleton University, Canada)
+- Joel J. P. C. Rodrigues, **Fellow, IEEE** (UFPI, Brazil)
+- Houbing Herbert Song, **Fellow, IEEE** (University of Maryland, USA)
+- Guangjie Han, **Fellow, IEEE** (Hohai University, China)
+- Wei Ni, **Fellow, IEEE** (Edith Cowan University, Australia)
+- Jun Luo, **Fellow, IEEE** (Nanyang Technological University, Singapore)
+- 
 ---
 
 ## 📬 Contact
